@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="booksForAdults">
+    <Position X="7.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAAAAAAAAAAAAIAAAAQAAAAEAAADAAgAAAAAAA=</HashCode>
+      <FileName>booksForAduitsr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="booksForKids">
+    <Position X="3.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAAAAAAAAAAAAIAAAAYAAAAAAAACAAgABAAAAA=</HashCode>
+      <FileName>booksForKids.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface&lt;T&gt;">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAAAAAUIAAYAAFEAAISEAAAGAJAokAYEAgAAAA=</HashCode>
+      <FileName>Interface1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="service">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAgAgAkAAAIAgAIAIIASAQAAAAEACEEgMAAAAAA=</HashCode>
+      <FileName>service.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List&lt;T&gt;">
+    <Position X="11" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAGBGAAAAAIQBhAAABEAQEAEABAgABABIAAAEQAo=</HashCode>
+      <FileName>Spisok.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBACAEAAAAAAABAAAAADACAAAAAAIAAAAgAgAAEAA=</HashCode>
+      <FileName>User1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="magazinesForAdults">
+    <Position X="9.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAQAAAAQIAAAAQBAAAAAAACAAgAAAAAAA=</HashCode>
+      <FileName>magazinesForAdults.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="magazinesForKids">
+    <Position X="5.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAAACAAAQAAAAAIAAAAQAAAAAAAACAAgAAAAAAA=</HashCode>
+      <FileName>magazinesForKids.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="schoolLibrary">
+    <Position X="5.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAIAAAgQAAAAAAAQCAAgAGAAAAA=</HashCode>
+      <FileName>entity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="adultLibrary">
+    <Position X="8.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAIAAAAAAAAAAKAAAAQAAAAAAAAiAggAAAAAAA=</HashCode>
+      <FileName>individual.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Line&lt;T&gt;">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAABAAAIAAAA=</HashCode>
+      <FileName>Spisok.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="ConsoleColor">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAnAAQAAQAAIgAAABAAAAAABAAAAAQAAAAACDAAAAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
